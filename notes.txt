@@ -1,0 +1,8 @@
+1. extra_action = used when we want to retrieve other from pk
+we dont need to search from pk
+
+@action = adhoc routable methods ko define karne ke liye koi bhi custom method ko define karna hai to
+which has the urls
+
+
+2. If you want to show one model under another model then we can use tabular inline
